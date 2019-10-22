@@ -4,13 +4,8 @@
 * squeeze lime
 * add salt
 * and mix well
+* enjoy
 
-git status
-
-
-mkdir ingridients.txt
-cd ingridients
-git init
 
 
 
